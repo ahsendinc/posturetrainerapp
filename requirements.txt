@@ -1,0 +1,13 @@
+Django==1.10.2
+Markdown==2.6.7
+boto==2.43.0
+dj-database-url==0.4.1
+django-filter==0.15.3
+django-picklefield==0.3.2
+djangorestframework==3.5.3
+gunicorn==19.6.0
+numpy==1.11.2
+psycopg2==2.6.2
+scikit-learn==0.18.1
+scipy==0.18.1
+whitenoise==3.2.2
